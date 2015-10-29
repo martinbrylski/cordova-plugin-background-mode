@@ -67,7 +67,7 @@ exports._defaults = {
     resume: true,
     silent: false,
     icon: 'icon',
-	smallIcon: 'icon'
+    smallIcon: 'icon',
     number: 0
 };
 
